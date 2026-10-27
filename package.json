@@ -1,0 +1,1 @@
+{"name":"moonlight-store","version":"1.0.0","private":true,"type":"module","description":"A cozy Korean branching story game with seven choices and eight endings.","scripts":{"test":"node --test tests/*.test.mjs","build":"node scripts/build.mjs","start":"python -m http.server 4173 --directory dist"}}
